@@ -1,0 +1,46 @@
+D:\Main Project\Motor\MotorSurveySystem -5\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem -5\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem -5\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Main Project\Motor\MotorSurveySystem -5\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Main Project\Motor\MotorSurveySystem -5\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem -5\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem -9\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem -9\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem -9\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Main Project\Motor\MotorSurveySystem -9\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Main Project\Motor\MotorSurveySystem -9\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem -9\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem -17\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem -17\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem -17\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Main Project\Motor\MotorSurveySystem -17\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Main Project\Motor\MotorSurveySystem -17\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem -17\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem 31\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem 31\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem 31\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Main Project\Motor\MotorSurveySystem 31\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Main Project\Motor\MotorSurveySystem 31\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem 31\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem 34 - Copy\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem 34 - Copy\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Main Project\Motor\MotorSurveySystem 34 - Copy\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Main Project\Motor\MotorSurveySystem 34 - Copy\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Main Project\Motor\MotorSurveySystem 34 - Copy\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 38\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 38\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 38\DataAccessLayer\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 38\DataAccessLayer\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 38\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 38\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 38\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 38\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Main Project\Motor Policy survey System\MotorSurveySystem 39\DataAccessLayer\obj\Release\DataAccessLayer.pdb

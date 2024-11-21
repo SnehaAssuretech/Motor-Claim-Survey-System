@@ -1,0 +1,55 @@
+﻿/* Navbar background color */
+@import url('MasterPage.css');
+.navbar.navbar-dark {
+    background-color: #001F3F !important; /* Navy blue background */
+}
+
+/* Navbar brand text */
+.navbar .navbar-brand {
+    color: #FFFFFF !important; /* White text for the brand */
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Navbar links */
+.navbar .nav-link {
+    color: #FFFFFF !important; /* White links */
+    font-size: 16px;
+    margin-right: 15px;
+    transition: color 0.3s ease;
+}
+
+    .navbar .nav-link:hover {
+        color: #FFD700 !important; /* Golden yellow on hover */
+    }
+
+/* Dropdown menu background */
+.navbar .dropdown-menu {
+    background-color: #004080 !important; /* Darker blue for dropdown menu */
+    border: none;
+}
+
+    /* Dropdown menu items */
+    .navbar .dropdown-menu .dropdown-item {
+        color: #FFFFFF !important; /* White text */
+        transition: background-color 0.3s ease;
+    }
+
+        .navbar .dropdown-menu .dropdown-item:hover {
+            background-color: #0056b3 !important; /* Blue shade on hover */
+            color: #FFFFFF !important;
+        }
+
+/* Logout button */
+.btn-danger {
+    background-color: #dc3545 !important;
+    border: 1px solid transparent;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-danger:hover {
+        background-color: #ff4b5c !important;
+    }
+
+/* Custom dropdown style for specific dropdowns, if needed */
+
